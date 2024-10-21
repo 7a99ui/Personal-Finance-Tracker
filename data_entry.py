@@ -35,3 +35,6 @@ def get_category():
     
     print("Invalid category , Please enter 'I' for Income or 'E' for Expense")
     return get_category()
+
+def get_description():
+    return input("Enter a description (optional): ")
