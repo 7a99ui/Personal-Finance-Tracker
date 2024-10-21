@@ -69,7 +69,7 @@ def add():
     CSV.add_entry(date,amount,category,description)
 
 def main():
-    while true :
+    while True :
         print("\n1. Add a new transaction")
         print("\n2. View transactions and summary within a date range")
         print("\n3. Exit")
@@ -88,3 +88,5 @@ def main():
         else:
             print("Invalid choice , Enter 1, 2 or 3.")
         
+if __name__=="__main__":
+    main()
