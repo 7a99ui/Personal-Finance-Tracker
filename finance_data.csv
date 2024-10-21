@@ -1,6 +1,31 @@
 date,amount,category,description
-20-7-2024,125.65,Income,Salary
-27-04-2024,1500.0,Income,salary
-28-04-2024,375.0,Expense,house fact
-01-05-2024,100.0,Income,gift
-26-07-2023,560.0,Expense,party
+20-07-2024,125.65,Income,Salary
+27-04-2024,1500.0,Income,Salary
+28-04-2024,375.0,Expense,House bill
+01-05-2024,100.0,Income,Gift
+26-07-2023,560.0,Expense,Party
+05-04-2023,150.0,Expense,Shopping
+02-05-2023,250.0,Expense,Groceries
+15-06-2023,1300.0,Income,Bonus
+10-06-2023,75.0,Expense,Transport
+30-07-2023,450.0,Expense,Car repair
+12-08-2023,175.0,Expense,Dining out
+01-09-2023,300.0,Income,Freelance
+22-09-2023,1200.0,Income,Salary
+05-10-2023,275.0,Expense,Clothing
+12-11-2023,500.0,Expense,Vacation
+05-12-2023,125.0,Expense,Electronics
+15-12-2023,600.0,Income,Side job
+01-01-2024,1800.0,Income,Salary
+14-01-2024,400.0,Expense,Rent
+20-02-2024,900.0,Income,Freelance project
+05-03-2024,375.0,Expense,Medical bill
+20-03-2024,100.0,Expense,Utilities
+28-03-2024,250.0,Income,Gift
+01-04-2024,150.0,Expense,Books
+10-04-2024,1000.0,Income,Bonus
+15-05-2024,650.0,Expense,Car maintenance
+20-05-2024,500.0,Income,Investment return
+02-06-2024,200.0,Expense,Groceries
+12-06-2024,150.0,Expense,Phone bill
+30-06-2024,180.0,Expense,Transport
